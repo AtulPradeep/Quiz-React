@@ -1,0 +1,70 @@
+body {
+  background-image: url("https://www.itl.cat/pngfile/big/79-799911_dark-nature-wallpaper-mountain-range-at-night.jpg");
+  background-color: #cccccc;
+  color: antiquewhite;
+  position: relative;
+}
+.Heading {
+  font-size: 3rem;
+  text-align: center;
+  color: antiquewhite;
+  margin: 0;
+  position: absolute;
+  top: 490%;
+  left: 76%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+.powered {
+  font-size: small;
+  text-align: center;
+  color: antiquewhite;
+  margin: 0;
+  position: absolute;
+  top: 550%;
+  left: 75%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+#buttonplay {
+  margin: 0;
+  position: absolute;
+  top: 600%;
+  left: 75%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+.float-container {
+  padding: 20px;
+}
+
+.float-childs {
+  float: left;
+  padding: 20px;
+  position: absolute;
+  top: 580%;
+  left: 25%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  color: antiquewhite;
+  font-family: "Times New Roman", Times, serif;
+  width: 18rem;
+}
+.float-childs {
+  width: 50%;
+  float: left;
+  padding: 20px;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 10;
+  min-width: 100%;
+  min-height: 100%;
+}
+#cardo {
+  background-color: rgba(0, 0, 0, 0);
+  width: 18 rem;
+  font-size: larger;
+}

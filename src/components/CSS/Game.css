@@ -1,0 +1,15 @@
+.category {
+  color: whitesmoke;
+  margin: 0;
+  position: absolute;
+  top: 170%;
+  left: 23%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+  font-size: x-large;
+}
+#drop {
+  position: absolute;
+  top: 240%;
+  left: 0%;
+}
